@@ -104,3 +104,76 @@ In conclusion, data cleaning and transformation are foundational steps in any da
 By addressing inconsistencies, refining data types, and enhancing data quality, we have set the stage for more meaningful and insightful analyses. 
 The clean and structured dataset is now well-equipped for advanced analytics, visualizations, and modeling.
 This project not only improves the quality of our data but also provides a strong foundation for subsequent tasks, including exploratory data analysis, predictive modeling, and reporting. We look forward to leveraging this clean dataset to extract valuable insights and make informed decisions in the world of FIFA data analysis.
+## Table of Features with Descriptions
+### Original Features
+| **Column Name**         | **Description**                               |
+|-------------------------|-----------------------------------------------|
+| LongName                | Full name of the player                       |
+| Nationality             | Nationality of the player                     |
+| Positions               | Player positions                              |
+| Name                    | Player name                                   |
+| Age                     | Age of the player                              |
+| Overall Rating          | Overall rating of the player                  |
+| Potential               | Potential rating of the player                |
+| ID                      | Player's unique identifier                    |
+| Weight                  | Player's weight                               |
+| foot                    | Dominant foot of the player                   |
+| Best Overall            | Best overall rating of the player             |
+| Best Position           | Best position of the player                   |
+| Growth                  | Growth potential of the player                |
+| Value                   | Market value of the player                    |
+| Wage                    | Player's wage                                  |
+| Release Clause          | Release clause amount for the player          |
+| ... (and so on)         | ... (descriptions for other features)         |
+
+### Encoded Positions
+
+| **Column Name**         | **Description**                               |
+|-------------------------|-----------------------------------------------|
+| CM                      | Central Midfielder                            |
+| ST                      | Striker                                       |
+| RB                      | Right Back                                    |
+| GK                      | Goalkeeper                                   |
+| CB                      | Center Back                                   |
+| RWB                     | Right Wing Back                              |
+| LB                      | Left Back                                     |
+| RM                      | Right Midfielder                             |
+| LM                      | Left Midfielder                              |
+| LW                      | Left Wing                                     |
+| CDM                     | Central Defensive Midfielder                |
+| CAM                     | Central Attacking Midfielder                |
+| LWB                     | Left Wing Back                              |
+| CF                      | Center Forward                               |
+| RW                      | Right Wing                                   |
+
+### Additional Features
+
+| **Column Name**         | **Description**                               |
+|-------------------------|-----------------------------------------------|
+| Team                    | Player's team                                |
+| Start Year              | Start year of the player's contract            |
+| End Year                | End year of the player's contract              |
+| Height                  | Player's height                               |
+| Date                    | Date when the player joined the team          |
+| Year                    | Year of the player's contract                  |
+| Month                   | Month of the player's contract                 |
+| Day                     | Day of the player's contract                   |
+| Hits                    | Unknown attribute (requires further clarification) |
+
+## Purpose
+
+The purpose of this project was to create a clean and structured dataset, enhancing its usability for advanced analytics, visualizations, and modeling in the domain of FIFA data analysis.
+
+## Conclusion
+
+In conclusion, data cleaning and transformation are foundational steps in any data analysis project. By addressing inconsistencies, refining data types, and enhancing data quality, we have set the stage for more meaningful and insightful analyses. The resulting dataset, now comprising 18,852 entries, is well-equipped for advanced analytics, visualizations, and modeling.
+
+This project not only improved the quality of our data but also provided a strong foundation for subsequent tasks, including exploratory data analysis, predictive modeling, and reporting. The clean and structured dataset is ready to be leveraged for extracting valuable insights and making informed decisions in the world of FIFA data analysis.
+
+Feel free to explore, analyze, and derive meaningful insights from this enhanced FIFA dataset. Happy analyzing!
+You can copy and paste this content into your README.md file. Adjustments can be made according to your specific project details or preferences.
+
+
+
+
+
