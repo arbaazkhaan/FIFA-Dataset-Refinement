@@ -86,16 +86,6 @@ Here is a table outlining the features present in the dataset along with their d
 | PHY                     | Physicality attribute                         |
 | Hits                    | Unknown attribute (requires further clarification) |
 Note: This table provides a comprehensive list of features present in the FIFA dataset. Feel free to refer to specific columns based on your analysis needs.
-# Purpose
-The primary goal of this project is to prepare the FIFA dataset for analysis by addressing inconsistencies, refining data types, and enhancing overall usability. 
-The dataset, initially containing 77 columns with diverse data types, required careful handling to ensure its quality and completeness.
-# Conclusion
-Data Quality Improvement
-Removal of URLs and Duplicate Records: Ensured data integrity and consistency, creating a clean foundation for analysis.
-One-Hot Encoding for Positions: Provided a structured representation of player positions, simplifying analysis.
-Improved Organization with "Team & Contract" Separation: Enhanced data organization and usability.
-Standardization of Measurements: Conversion of height, weight, and financial values for standardized and accurate measurements.
-Datetime Data Transformation: Enabled in-depth time-related analysis through the transformation of date strings into datetime data types.
 # Data Completeness
 A comprehensive check for missing values was conducted, and necessary values were filled, ensuring that the dataset is complete and ready for further analysis.
 # Enhanced Usability
